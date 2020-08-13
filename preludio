@@ -3,7 +3,7 @@
 #1.0
 echo "PRINCIPAIS FERRAMENTAS QUE UM INICIANTE PRECISA :^" 
 echo "confirme a instalação com ( Y ) e não confirme com ( N )"
-acho "quando for usar termux sempre usar (pkg upgrade && pkg update)"
+echo "quando for usar termux sempre usar (pkg upgrade && pkg update)"
 pkg upgrade && pkg update
 echo "leia os comandos e treine"
 echo "para instalação de uma ferramenta sempre usar (git clone www.github.com/exemplo)"
