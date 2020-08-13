@@ -15,5 +15,5 @@ echo "quando abrir uma pasta use (chmod +x *) para dar permissão a todos reposi
 echo "agora vc dará permissão ao termux para ter acesso aos seus arquivos (termux-setup-storage)"
 termux-setup-storage
 echo "para instalação de alguma ferramenta (pkg install exemplo) ou (apt install exemplo)"
-pkg install 
+pkg install bash
 echo "execute para instala ferramentas-> (bash bilin)" && echo "Feito por _xXKrill3Xx_" && sleep 15s;
