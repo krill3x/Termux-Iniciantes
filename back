@@ -1,0 +1,13 @@
+#!/bin/bash
+#              ֍١_Ben〉_〈Vindo_١֍
+#                              ⤷Versão 0.1
+#Criador por _xXkrill3Xx_
+echo "' -'->ALGUMAS FERRAMENTAS UTEIS<-'- '"
+git clone https://github.com/Gameye98/Lazymux
+git clone https://github.com/PSecurity/ps.ngrok
+git clone https://github.com/evait-security/weeman
+git clone https://github.com/maldevel/IPGeolocation
+git clone https://github.com/Rajkumrdusad/Tool-X
+git clone https://github.com/AngelSecurityTeam/GenTiny
+git clone https://github.com/Cesar-Hack-Gray/SocialSploit
+git clone https://github.com/Cesar-Hack-Gray/FotoSploit && cowsay "para aprender a usar abra (nano README.md) ou pesquise no YouTube" && sleep 15s;
