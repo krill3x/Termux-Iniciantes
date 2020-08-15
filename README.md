@@ -5,4 +5,5 @@ _Ben_Vindo_Ao_Meu_Script_
 Modo de uso:
           ~>bash preludio
             ~>bash bilin
+              ~>bash back
        ##Não serei responsável por seus atos ,_ ,##
